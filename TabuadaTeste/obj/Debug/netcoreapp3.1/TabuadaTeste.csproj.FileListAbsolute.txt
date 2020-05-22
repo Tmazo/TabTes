@@ -1,0 +1,11 @@
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.exe
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.deps.json
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.runtimeconfig.json
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.runtimeconfig.dev.json
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.dll
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\bin\Debug\netcoreapp3.1\TabuadaTeste.pdb
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\obj\Debug\netcoreapp3.1\TabuadaTeste.csprojAssemblyReference.cache
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\obj\Debug\netcoreapp3.1\TabuadaTeste.AssemblyInfoInputs.cache
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\obj\Debug\netcoreapp3.1\TabuadaTeste.AssemblyInfo.cs
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\obj\Debug\netcoreapp3.1\TabuadaTeste.dll
+C:\Users\Thiago Ziola\source\repos\TabuadaTeste\TabuadaTeste\obj\Debug\netcoreapp3.1\TabuadaTeste.pdb
